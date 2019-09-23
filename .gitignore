@@ -3,6 +3,7 @@ logs
 *.eng
 
 node_modules
+build
 out
 dist
 tmp
