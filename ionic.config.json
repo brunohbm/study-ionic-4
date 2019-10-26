@@ -1,5 +1,7 @@
 {
   "name": "ionic-4",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

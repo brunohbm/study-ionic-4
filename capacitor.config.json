@@ -1,0 +1,7 @@
+{
+  "appId": "ionic-4-5cb1e.firebaseapp.com",
+  "appName": "ionic-4-5cb1e",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
